@@ -1,1 +1,0 @@
-site: google.com.br, usuario: of234so@gmail.com, nova senha: $2ARdjQc
