@@ -21,7 +21,7 @@ class PassGen:
             
         ]
 
-        self.janela = sg.Window('Password Generator', layout)
+        self.janela = sg.Window('Password Generator', layout, icon=f'./img/ico1.ico')
 
 #Bloco que gera os eventos para funcionamento do programa
     def Iniciar(self):
@@ -35,6 +35,7 @@ class PassGen:
                 self.salvar_senha(nova_senha, valores)
             if evento == 'Fechar Programa':
                 break
+
 #Definição do que vai aparecer na tela do usuário
     def gerar_senha(self, valores):
         char_list = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz123456789@#$%*&/'
@@ -48,7 +49,6 @@ class PassGen:
         with open('senhas.txt', 'a',newline='') as arquivo:
             arquivo.write( 
              f"\nsite: {valores['site']} \nusuario: {valores['usuario']} \nnova senha: {nova_senha}\n")
-
     
         
 

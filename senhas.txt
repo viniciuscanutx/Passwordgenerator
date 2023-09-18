@@ -49,3 +49,35 @@ nova senha: *qMmWL4QH1Ro
 site: 232h3u2 
 usuario: okdsuhwer 
 nova senha: bSQtkfE2ps*Y
+
+site: site 
+usuario: Software 
+nova senha: a%25Oxm4Os%@
+
+site: site 
+usuario: Software 
+nova senha: xa96QD%&SzIu
+
+site: site 
+usuario: Software 
+nova senha: #DKI/R#uONtD
+
+site: site 
+usuario: Software 
+nova senha: RZpuP$*VlctR
+
+site: site 
+usuario: Software 
+nova senha: &*8J1i%j2/K$
+
+site: site 
+usuario: Software 
+nova senha: vIve2FwIv6@d
+
+site: site 
+usuario: Software 
+nova senha: 9ZNV*3mymf/m
+
+site: site 
+usuario: Software 
+nova senha: h5nwQfScBk@B
